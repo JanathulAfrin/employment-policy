@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Production Build
+dist/
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Vite cache
+.vite/
